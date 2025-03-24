@@ -1,0 +1,18 @@
+/* [project]/src/components/Navbar.module.css [app-client] (css) */
+.Navbar-module__cJzEcG__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 3rem;
+  padding: 30px;
+  color: #fff;
+}
+
+.Navbar-module__cJzEcG__logo_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+/*# sourceMappingURL=src_components_Navbar_module_b52d8e88.css.map*/

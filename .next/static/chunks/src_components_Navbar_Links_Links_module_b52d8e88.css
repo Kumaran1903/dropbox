@@ -1,0 +1,35 @@
+/* [project]/src/components/Navbar/Links/Links.module.css [app-client] (css) */
+.Links-module__0syrLW__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-right: 30px;
+  gap: 20px;
+  cursor: pointer;
+}
+
+.Links-module__0syrLW__links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  gap: 20px;
+}
+
+.Links-module__0syrLW__btn {
+  background-color: #fff;
+  color: #0f0f54;
+  padding: 9px 15px;
+  border-radius: 5px;
+  font-size: 1.1rem;
+  font-weight: semi-bold;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.Links-module__0syrLW__btn:hover {
+  background-color: #0f0f54;
+  color: #fff;
+}
+
+/*# sourceMappingURL=src_components_Navbar_Links_Links_module_b52d8e88.css.map*/

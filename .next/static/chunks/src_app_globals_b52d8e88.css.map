@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/src/app/globals.css"],"sourcesContent":["@import url(\"https://fonts.googleapis.com/css2?family=Iceland&display=swap\");\n@import url(\"https://fonts.googleapis.com/css2?family=Iceland&family=Onest:wght@100..900&display=swap\");\n:root {\n  --background: #ffffff;\n  --foreground: #171717;\n}\n\n@media (prefers-color-scheme: dark) {\n  :root {\n    --background: #0a0a0a;\n    --foreground: #ededed;\n  }\n}\n\nhtml,\nbody {\n  background: radial-gradient(\n    ellipse at center,\n    #003b70 10%,\n    #002a5c 40%,\n    #001b44 70%,\n    #000428 100%\n  );\n  background-attachment: fixed;\n  color: rgb(209 213 219 / var(--tw-text-opacity, 1));\n  font-family: \"Iceland\", serif;\n}\n\n* {\n  box-sizing: border-box;\n  padding: 0;\n  margin: 0;\n}\n\na {\n  color: inherit;\n  text-decoration: none;\n}\n\n@media (prefers-color-scheme: dark) {\n  html {\n    color-scheme: dark;\n  }\n}\n"],"names":[],"mappings":"AAEA;;;;;AAKA;EACE;;;;;;AAMF;;;;;;;AAcA;;;;;;AAMA;;;;;AAKA;EACE"}}]
+}

@@ -1,0 +1,38 @@
+/* [project]/src/app/globals.css [app-client] (css) */
+:root {
+  --background: #fff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+html, body {
+  background: radial-gradient(#003b70 10%, #002a5c 40%, #001b44 70%, #000428 100%);
+  background-attachment: fixed;
+  color: rgb(209 213 219 / var(--tw-text-opacity, 1));
+  font-family: Iceland, serif;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+}
+
+/*# sourceMappingURL=src_app_globals_b52d8e88.css.map*/
