@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/kumar/OneDrive/Desktop/dropbox/src/app/my-files/files.module.css"],"sourcesContent":[".container {\r\n  font-size: 1.5rem;\r\n  max-width: 800px;\r\n  margin: 0 auto;\r\n  padding: 20px;\r\n}\r\n\r\n.table {\r\n  width: 100%;\r\n  border-collapse: collapse;\r\n  margin-top: 20px;\r\n  border-radius: 5px; /* ✅ Adds rounded corners */\r\n  overflow: hidden; /* ✅ Ensures rounded corners apply to child elements */\r\n}\r\n\r\n.th,\r\n.td {\r\n  border: 2px solid #ccc;\r\n  padding: 8px;\r\n  text-align: center;\r\n}\r\n\r\n.th {\r\n  background-color: #f2f2f283;\r\n}\r\n\r\n.button {\r\n  background-color: #007bff;\r\n  color: white;\r\n  padding: 5px 10px;\r\n  border: none;\r\n  cursor: pointer;\r\n  border-radius: 5px;\r\n}\r\n\r\n.button:hover {\r\n  background-color: #0056b3;\r\n}\r\n"],"names":[],"mappings":"AAAA;;;;;;;AAOA;;;;;;;;AAQA;;;;;;AAOA;;;;AAIA;;;;;;;;;AASA","debugId":null}}]
+}

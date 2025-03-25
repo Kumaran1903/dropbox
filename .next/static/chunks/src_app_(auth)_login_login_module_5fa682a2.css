@@ -1,0 +1,32 @@
+/* [project]/src/app/(auth)/login/login.module.css [app-client] (css) */
+.login-module__3lrIIq__form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+}
+
+.login-module__3lrIIq__btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  background-color: #fff;
+  color: #0f0f54;
+  padding: 10px 15px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.login-module__3lrIIq__btn:hover {
+  background-color: #0f0f54;
+  color: #fff;
+}
+
+.login-module__3lrIIq__btn span {
+  padding-top: 5px;
+  padding-right: 3px;
+}
+
+
+/*# sourceMappingURL=src_app_%28auth%29_login_login_module_5fa682a2.css.map*/

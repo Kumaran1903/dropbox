@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 60, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/kumar/OneDrive/Desktop/dropbox/src/app/api/files/route.js"],"sourcesContent":["import { NextResponse } from \"next/server\";\r\n\r\n// Mocked list of files (Replace this with an actual S3 or database query)\r\nconst files = [\r\n  { name: \"document.pdf\", url: \"https://your-storage-url/document.pdf\" },\r\n  { name: \"image.jpg\", url: \"https://your-storage-url/image.jpg\" },\r\n  { name: \"report.xlsx\", url: \"https://your-storage-url/report.xlsx\" },\r\n];\r\n\r\nexport async function GET() {\r\n  return NextResponse.json(files);\r\n}\r\n"],"names":[],"mappings":";;;AAAA;;AAEA,0EAA0E;AAC1E,MAAM,QAAQ;IACZ;QAAE,MAAM;QAAgB,KAAK;IAAwC;IACrE;QAAE,MAAM;QAAa,KAAK;IAAqC;IAC/D;QAAE,MAAM;QAAe,KAAK;IAAuC;CACpE;AAEM,eAAe;IACpB,OAAO,gIAAA,CAAA,eAAY,CAAC,IAAI,CAAC;AAC3B","debugId":null}}]
+}

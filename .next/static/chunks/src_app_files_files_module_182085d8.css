@@ -1,0 +1,35 @@
+/* [project]/src/app/files/files.module.css [app-client] (css) */
+.files-module__j4Kgbq__container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.files-module__j4Kgbq__fileList {
+  list-style: none;
+  padding: 0;
+}
+
+.files-module__j4Kgbq__fileItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.files-module__j4Kgbq__downloadBtn {
+  text-decoration: none;
+  background-color: #0070f3;
+  color: #fff;
+  padding: 8px 12px;
+  border-radius: 5px;
+}
+
+.files-module__j4Kgbq__downloadBtn:hover {
+  background-color: #0056b3;
+}
+
+
+/*# sourceMappingURL=src_app_files_files_module_182085d8.css.map*/

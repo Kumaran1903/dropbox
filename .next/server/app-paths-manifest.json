@@ -1,6 +1,12 @@
 {
   "/(auth)/login/page": "app/(auth)/login/page.js",
-  "/(auth)/register/page": "app/(auth)/register/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/get-files/route": "app/api/get-files/route.js",
+  "/api/get-user-files/route": "app/api/get-user-files/route.js",
+  "/api/upload-url/route": "app/api/upload-url/route.js",
+  "/contact/page": "app/contact/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/my-files/page": "app/my-files/page.js",
   "/page": "app/page.js"
 }

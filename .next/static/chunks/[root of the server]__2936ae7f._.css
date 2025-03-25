@@ -150,7 +150,7 @@ a {
   justify-content: center;
   align-items: center;
   padding-right: 30px;
-  gap: 20px;
+  gap: 50px;
   cursor: pointer;
 }
 
@@ -158,12 +158,12 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 2rem;
-  gap: 20px;
+  font-size: 1.7rem;
+  gap: 50px;
 }
 
 .Links-module__0syrLW__btn {
-  background-color: #fff;
+  background-color: #fffffff3;
   color: #0f0f54;
   padding: 9px 15px;
   border-radius: 5px;
@@ -174,8 +174,7 @@ a {
 }
 
 .Links-module__0syrLW__btn:hover {
-  background-color: #0f0f54;
-  color: #fff;
+  background-color: #fff;
 }
 
 

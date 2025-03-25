@@ -1,0 +1,37 @@
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.904);
+  color: rgb(15, 15, 84);
+  padding: 9px 15px;
+  border-radius: 5px;
+  font-size: 1.2rem;
+  font-weight: semi-bold;
+  text-decoration: none;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: white;
+}
+.dropzone {
+  border: 2px dashed #007bff;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.dropzone p {
+  font-size: 1.2rem;
+  color: white;
+}
+.disabled {
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+.message {
+  margin-top: 20px;
+  font-weight: bold;
+  color: white;
+}

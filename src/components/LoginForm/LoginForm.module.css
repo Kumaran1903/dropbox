@@ -1,0 +1,26 @@
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+}
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  background-color: white;
+  color: rgb(15, 15, 84);
+  padding: 10px 15px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: rgb(15, 15, 84);
+  color: white;
+}
+
+.btn span {
+  padding-top: 5px;
+  padding-right: 3px;
+}

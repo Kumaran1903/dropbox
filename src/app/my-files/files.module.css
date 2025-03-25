@@ -1,0 +1,38 @@
+.container {
+  font-size: 1.5rem;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  border-radius: 5px; /* ✅ Adds rounded corners */
+  overflow: hidden; /* ✅ Ensures rounded corners apply to child elements */
+}
+
+.th,
+.td {
+  border: 2px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
+
+.th {
+  background-color: #f2f2f283;
+}
+
+.button {
+  background-color: #007bff;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}

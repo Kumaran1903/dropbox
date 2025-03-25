@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-right: 30px;
+  gap: 50px;
+  cursor: pointer;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.7rem;
+  gap: 50px;
+}
+
+.btn {
+  background-color: rgba(255, 255, 255, 0.953);
+  color: rgb(15, 15, 84);
+  padding: 9px 15px;
+  border-radius: 5px;
+  font-size: 1.1rem;
+  font-weight: semi-bold;
+  text-decoration: none;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: white;
+}

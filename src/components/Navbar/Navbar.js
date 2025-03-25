@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React from "react";
 import styles from "./Navbar.module.css";
-import Links from "./Links/Links";
+import Links from "../Links/Links";
 function Navbar() {
   return (
     <div className={styles.container}>

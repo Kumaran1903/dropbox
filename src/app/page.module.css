@@ -1,6 +1,6 @@
 .container {
   display: flex;
-  justify-content:center;
+  justify-content: center;
   align-items: center;
   flex-direction: column;
   text-align: center;
@@ -9,16 +9,6 @@
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
-.title{
+.title {
   padding-top: 7%;
-}
-.btn {
-  background-color: white;
-  color: rgb(15, 15, 84);
-  padding: 9px 15px;
-  border-radius: 5px;
-  font-size: 1.2rem;
-  font-weight: semi-bold;
-  text-decoration: none;
-  cursor: pointer;
 }

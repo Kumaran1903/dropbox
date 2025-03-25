@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/src/components/Links/Links.module.css"],"sourcesContent":[".container {\r\n  display: flex;\r\n  justify-content: center;\r\n  align-items: center;\r\n  padding-right: 30px;\r\n  gap: 50px;\r\n  cursor: pointer;\r\n}\r\n\r\n.links {\r\n  display: flex;\r\n  justify-content: center;\r\n  align-items: center;\r\n  font-size: 1.7rem;\r\n  gap: 50px;\r\n}\r\n\r\n.btn {\r\n  background-color: rgba(255, 255, 255, 0.953);\r\n  color: rgb(15, 15, 84);\r\n  padding: 9px 15px;\r\n  border-radius: 5px;\r\n  font-size: 1.1rem;\r\n  font-weight: semi-bold;\r\n  text-decoration: none;\r\n  cursor: pointer;\r\n}\r\n.btn:hover {\r\n  background-color: white;\r\n}\r\n"],"names":[],"mappings":"AAAA;;;;;;;;;AASA;;;;;;;;AAQA;;;;;;;;;;;AAUA"}}]
+}

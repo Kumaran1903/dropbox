@@ -1,0 +1,41 @@
+/* [project]/src/app/my-files/files.module.css [app-client] (css) */
+.files-module__uy1Iaa__container {
+  font-size: 1.5rem;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.files-module__uy1Iaa__table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.files-module__uy1Iaa__th, .files-module__uy1Iaa__td {
+  border: 2px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
+
+.files-module__uy1Iaa__th {
+  background-color: #f2f2f283;
+}
+
+.files-module__uy1Iaa__button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.files-module__uy1Iaa__button:hover {
+  background-color: #0056b3;
+}
+
+
+/*# sourceMappingURL=src_app_my-files_files_module_243c6081.css.map*/

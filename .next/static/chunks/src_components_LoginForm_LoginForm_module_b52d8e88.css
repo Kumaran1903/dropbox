@@ -1,0 +1,31 @@
+/* [project]/src/components/LoginForm/LoginForm.module.css [app-client] (css) */
+.LoginForm-module__nAav1a__form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+}
+
+.LoginForm-module__nAav1a__btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  background-color: #fff;
+  color: #0f0f54;
+  padding: 10px 15px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.LoginForm-module__nAav1a__btn:hover {
+  background-color: #0f0f54;
+  color: #fff;
+}
+
+.LoginForm-module__nAav1a__btn span {
+  padding-top: 5px;
+  padding-right: 3px;
+}
+
+/*# sourceMappingURL=src_components_LoginForm_LoginForm_module_b52d8e88.css.map*/

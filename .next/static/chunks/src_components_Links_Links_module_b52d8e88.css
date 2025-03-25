@@ -1,0 +1,34 @@
+/* [project]/src/components/Links/Links.module.css [app-client] (css) */
+.Links-module__qdjl9W__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-right: 30px;
+  gap: 50px;
+  cursor: pointer;
+}
+
+.Links-module__qdjl9W__links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.7rem;
+  gap: 50px;
+}
+
+.Links-module__qdjl9W__btn {
+  background-color: #fffffff3;
+  color: #0f0f54;
+  padding: 9px 15px;
+  border-radius: 5px;
+  font-size: 1.1rem;
+  font-weight: semi-bold;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.Links-module__qdjl9W__btn:hover {
+  background-color: #fff;
+}
+
+/*# sourceMappingURL=src_components_Links_Links_module_b52d8e88.css.map*/

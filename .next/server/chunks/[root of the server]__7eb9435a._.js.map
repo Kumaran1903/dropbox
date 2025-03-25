@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 52, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/kumar/OneDrive/Desktop/dropbox/src/app/api/auth/route.js"],"sourcesContent":["const smth = { id: \"123\", name: \"123\" };\r\nexport function GET() {\r\n  return Response.json(smth);\r\n}\r\n"],"names":[],"mappings":";;;AAAA,MAAM,OAAO;IAAE,IAAI;IAAO,MAAM;AAAM;AAC/B,SAAS;IACd,OAAO,SAAS,IAAI,CAAC;AACvB","debugId":null}}]
+}

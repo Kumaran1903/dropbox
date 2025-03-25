@@ -1,0 +1,44 @@
+/* [project]/src/components/Dropbox/Dropbox.module.css [app-client] (css) */
+.Dropbox-module__yByLYW__btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffffe7;
+  color: #0f0f54;
+  padding: 9px 15px;
+  border-radius: 5px;
+  font-size: 1.2rem;
+  font-weight: semi-bold;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.Dropbox-module__yByLYW__btn:hover {
+  background-color: #fff;
+}
+
+.Dropbox-module__yByLYW__dropzone {
+  border: 2px dashed #007bff;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.Dropbox-module__yByLYW__dropzone p {
+  font-size: 1.2rem;
+  color: #fff;
+}
+
+.Dropbox-module__yByLYW__disabled {
+  pointer-events: none;
+  opacity: .5;
+}
+
+.Dropbox-module__yByLYW__message {
+  margin-top: 20px;
+  font-weight: bold;
+  color: #fff;
+}
+
+/*# sourceMappingURL=src_components_Dropbox_Dropbox_module_b52d8e88.css.map*/
